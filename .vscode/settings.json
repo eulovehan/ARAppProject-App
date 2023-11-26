@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "arProject.sln"
+    "dotnet.defaultSolution": "ARAppProject-App.sln"
 }
